@@ -24,9 +24,15 @@ Servir como base para estudos com Spring Data JPA
 ⚙️ Funcionalidades
 
 Conexão com banco de dados via JDBC
+
 Execução de operações CRUD manualmente (SQL puro)
+
 Mapeamento de entidades com JPA
+
 Persistência de objetos utilizando ORM
+
 Comparação entre:
+
 Código verboso (JDBC)
+
 Código simplificado e orientado a objetos (JPA)
